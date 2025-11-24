@@ -1,0 +1,12 @@
+[
+  {
+    "topic": "The future of AI agents",
+    "expected_tone": "hype",
+    "min_sections": 3
+  },
+  {
+    "topic": "Healthy eating habits",
+    "expected_tone": "friendly",
+    "min_sections": 3
+  }
+]
