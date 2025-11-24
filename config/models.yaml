@@ -1,0 +1,13 @@
+
+planner: meta-llama-3.1-8b-instruct
+writer: meta-llama-3.1-8b-instruct
+emovere: meta-llama-3.1-8b-instruct
+editor: meta-llama-3.1-8b-instruct
+publisher: meta-llama-3.1-8b-instruct
+
+
+endpoint: "http://localhost:1234/v1"
+
+
+timeout: 600
+temperature: 0.7

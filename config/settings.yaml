@@ -1,0 +1,9 @@
+project_name: "Agentic Blog Writer Capstone"
+storage_path: "./output"
+log_level: "INFO"
+
+
+max_context_tokens: 50000
+
+compaction_ratio: 0.75
+memory_db_path: "./memory_db"
